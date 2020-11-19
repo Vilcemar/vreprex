@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64 Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="356px" height="104px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 231.05 67.22"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <font id="FontID0" horiz-adv-x="750" font-variant="normal" style="fill-rule:nonzero" font-weight="700">
+	<font-face 
+		font-family="Metropolis">
+		<font-face-src>
+			<font-face-name name="Metropolis Bold"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="E" horiz-adv-x="640" d="M596.96 553.971l0 132.983 -528.969 0 0 -686.954 528.969 0 0 132.995 -380.974 0 0 150.982 344.977 0 0 132.995 -344.977 0 0 136.999 380.974 0z"/>
+   <glyph unicode="P" horiz-adv-x="659" d="M67.9915 0l146.99 0 0 222.989 161.989 0c148.998,0 258.987,95.9936 258.987,231.977 0,135.995 -109.989,231.988 -258.987,231.988l-308.979 0 0 -686.954zm146.99 357.98l0 193.983 145.998 0c72.9872,0 122.992,-37.9935 122.992,-96.9974 0,-58.9921 -50.0045,-96.9856 -122.992,-96.9856l-145.998 0z"/>
+   <glyph unicode="R" horiz-adv-x="677" d="M648.96 0l-168.993 239.984c93.9976,32.9978 155.99,112.988 155.99,214.982 0,135.995 -109.989,231.988 -258.987,231.988l-308.979 0 0 -686.954 146.99 0 0 222.989 108.997 0 156.993 -222.989 167.989 0zm-433.979 551.963l145.998 0c72.9872,0 122.992,-37.9935 122.992,-96.9974 0,-58.9921 -50.0045,-96.9856 -122.992,-96.9856l-145.998 0 0 193.983z"/>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Metropolis";font-variant:normal;font-weight:bold;src:url("#FontID0") format(svg)}
+    .fil0 {fill:white}
+    .fil1 {fill:white;fill-rule:nonzero}
+    .fnt0 {font-weight:bold;font-size:64.89px;font-family:'Metropolis'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Camada_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g transform="matrix(0.975651 0 0 1 169.361 -355.919)">
+   <text x="-178" y="423.14"  class="fil0 fnt0">R</text>
+  </g>
+  <g transform="matrix(0.975651 0 0 1 205.379 -355.919)">
+   <text x="-178" y="423.14"  class="fil0 fnt0">E</text>
+  </g>
+  <g transform="matrix(0.975651 0 0 1 243.051 -355.919)">
+   <text x="-178" y="423.14"  class="fil0 fnt0">P</text>
+  </g>
+  <g transform="matrix(0.975651 0 0 1 280.837 -355.919)">
+   <text x="-178" y="423.14"  class="fil0 fnt0">R</text>
+  </g>
+  <g transform="matrix(0.975651 0 0 1 317.945 -355.919)">
+   <text x="-178" y="423.14"  class="fil0 fnt0">E</text>
+  </g>
+  <polygon class="fil1" points="231.05,22.64 219.88,22.64 209.16,37.24 181.21,0 169.91,0 203.45,45.03 187.14,67.22 198.25,67.22 209.03,52.62 219.69,67.22 231.05,67.22 214.68,44.83 "/>
+ </g>
+</svg>

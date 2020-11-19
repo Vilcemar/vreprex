@@ -1,0 +1,69 @@
+$verde-claro:       #DFEDD6 !default;
+$verde-escuro:      #31B404 !default;
+$laranja:           #FF4000 !default;
+$laranja-black:     #d82101 !default;
+$laranja-claro:     #ffa586 !default;
+$laranja-bebe:      #f65f2d !default;
+$verde-light:       #95C77D !default;
+$branco:            #ffffff !default;
+$abacate:           #629C44 !default;
+$abacate-escuro:    #45702e !default;
+$abacate-black:     #224410 !default;
+$cinza:             #ccc    !default;
+$vermelho:          #f80808 !default;
+
+$theme-colors: (
+    "verde-claro":      $verde-claro,
+    "verde-escuro":     $verde-escuro,
+    "laranja":          $laranja,
+    "laranja-black":    $laranja-black,
+    "laranja-claro":    $laranja-claro,
+    "laranja-bebe":     $laranja-bebe,
+    "verde-light":      $verde-light,
+    "branco":           $branco,
+    "abacate":          $abacate,
+    "abacate-escuro":    $abacate-escuro,
+    "abacate-black":    $abacate-black,
+    "cinza":            $cinza,
+    "vermelho":         $vermelho,
+);
+// nav
+
+
+
+
+$nav-link-height: bold;
+
+$nav-tabs-link-active-bg:           $abacate-escuro !default;
+
+$dropdown-color:                    $branco;
+$dropdown-bg:                       $abacate-escuro;
+$dropdown-padding-y:                0rem !default;
+
+$dropdown-link-color:               $branco;
+$dropdown-link-hover-color:         $verde-light;
+$dropdown-link-hover-bg:            $abacate-black;
+
+$dropdown-link-active-color:        $branco !default;
+$dropdown-link-active-bg:           $laranja-bebe !default;
+$enable-responsive-font-sizes:      true !default;
+
+$border-radius:                     0.4rem !default;
+
+
+.nav-link:hover {
+    background-color: $abacate-black ;
+  }
+.active {
+  background-color: $abacate-escuro ;
+  border-bottom: 1px solid #95C77D;
+}
+
+@import "~bootstrap/scss/bootstrap";
+
+.dropdown-item:hover,
+.dropdown-item:focus {
+  color: #ffffff;
+  text-decoration: none;
+  background: $laranja ; // linear-gradient(180deg, #436034, #224410) repeat-x
+}
